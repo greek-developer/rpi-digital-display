@@ -22,7 +22,7 @@ When connecting the RPI-DD to a new environment for the first time follow the fo
     * Go to `System Options` -> `Wireless LAN`
     * Enter SSID & WIFI Password
     * RPI-DD will try to connect to the WIFI network
-    * Use "tab" key to navigate to "<Finish>"
+    * Use "tab" key to navigate to "Finish"
 
 ### Network access
 
